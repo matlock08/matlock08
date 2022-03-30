@@ -1,6 +1,4 @@
 
-![@fmontes github readme](https://user-images.githubusercontent.com/751424/160527965-bbb55d38-6c42-4b4c-8c6e-7b814eebf83f.png)
-
 ### Hi there 👋
 # My name is Jose Castellanos
 ### I'm a Solution Architect from Mexico
@@ -11,9 +9,7 @@
 
 🖥 I'm currently working as Lead Frontend Developer and soon Product Manager at [dotCMS](https://dotcms.com)
 
-🐦 I shared content on [Twitter](https://twitter.com/fmontes) and [Instagram](https://instagram.com/fmontes) about frontend and dev jobs and life.
-
-✏️ I write posts about design and code on [my blog](https://fmontes.com)
+🐦 I shared content on [Twitter](https://twitter.com/matlock08) about frontend and dev jobs and life.
 
 📧 I also have a [weekly newsletter](https://https://www.getrevue.co/profile/fmontes)
 
