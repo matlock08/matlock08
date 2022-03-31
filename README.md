@@ -3,7 +3,7 @@
 # My name is Jose Castellanos
 ### I'm a Solution Architect from Mexico
 
-![@fmontes twitter](https://img.shields.io/twitter/follow/fmontes?style=for-the-badge&color=00acee)
+![@matlock08 twitter](https://img.shields.io/twitter/follow/matlock08?style=for-the-badge&color=00acee)
 
 ### 🔨 What I do
 
