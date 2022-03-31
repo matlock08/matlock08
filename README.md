@@ -7,30 +7,20 @@
 
 ### 🔨 What I do
 
-🖥 I'm currently working as Lead Frontend Developer and soon Product Manager at [dotCMS](https://dotcms.com)
+🖥 I'm currently working as Digital Transformation Manager at [IBM](https://www.ibm.com)
 
-🐦 I shared content on [Twitter](https://twitter.com/matlock08) about frontend and dev jobs and life.
-
-📧 I also have a [weekly newsletter](https://https://www.getrevue.co/profile/fmontes)
-
-👨🏽‍🏫 I teach JavaScript on [CETAV](http://www.parquelalibertad.org/cetav/)
+🐦 I shared content on [Twitter](https://twitter.com/matlock08) about AI, IoT and dev.
 
 ---
 
 ### Working with
-- Angular
+- NVIDIA DeepStream, OMNIVERSE, TAO
 - Typescript 
-- NextJS
-- Gatsby
-- React
-- Redux
-- GraphQL
+- Python
+- Java
+- AWS
 - NodeJS
 - Express
-
-### Product Development
-
-My true passion is **Product Development** and I enjoy all aspects from the initial idea and brainstorming, wireframes, mockups, and designs, business right through to the final product.
 
 ### 📫 You can find me
 - [Twitter](https://twitter.com/matlock08) 🐦
